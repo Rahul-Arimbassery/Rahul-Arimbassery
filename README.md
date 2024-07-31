@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **rahulr441989@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13ygrpzwR3SVWF8j4zOytvkUaNv1bmi13/view?usp=drive_link](https://drive.google.com/file/d/13ygrpzwR3SVWF8j4zOytvkUaNv1bmi13/view?usp=drive_link)
-
 - ⚡ Fun fact **I always take responsibilities**
 
 <h3 align="left">Connect with me:</h3>
