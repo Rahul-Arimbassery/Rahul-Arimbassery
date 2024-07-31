@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter Developement**
 
-- 💬 Ask me about **Flutter - Dart - BLoC - Provider - MVVM - REST APIs**
+- 💬 Ask me about **Flutter - Dart - BLoC - Clean Arch. - Flutter web - Firebase - iOS - Provider - MVVM - REST APIs**
 
 - 📫 How to reach me **rahulr441989@gmail.com**
 
